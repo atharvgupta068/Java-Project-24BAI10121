@@ -127,5 +127,5 @@ All tasks are stored in `data/tasks.csv`. You can inspect or back it up at any t
 
 ## Author
 
-**ADARSH SINGH CHAUHAN**  
+**ATHARV GUPTA**  
 ```
